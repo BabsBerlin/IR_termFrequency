@@ -9,10 +9,7 @@ A frequent task in Information Retrieval (IR) is the calculation of term frequen
 
 Examples:
 
-word --> word stem (term)
-  going --> go
-  apple --> appl
-  apples --> appl
+word --> word stem (term)  going --> go  apple --> appl  apples --> appl
   
 Within this task the document in question (the first scene of Shakespeare's Hamlet (hamlet.xml)) is in XML format. Therefore first that file must be downloaded and parsed. After this only the contents of the <LINE> is to be taken.
 
