@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+
+<PLAY>
+<TITLE>The Tragedy of Hamlet, Prince of Denmark</TITLE>
+
+<FM>
+<P>ASCII text placed in the public domain by Moby Lexical Tools, 1992.</P>
+<P>SGML markup by Jon Bosak, 1992-1994.</P>
+<P>XML version by Jon Bosak, 1996-1999.</P>
+<P>The XML markup in this version is Copyright &#169; 1999 Jon Bosak.
+This work may freely be distributed on condition that it not be
+modified or altered in any way.</P>
+</FM>
+
+<PERSONAE>
+<TITLE>Dramatis Personae</TITLE>
+
+<PERSONA>CLAUDIUS, king of Denmark. </PERSONA>
+<PERSONA>HAMLET, son to the late, and nephew to the present king.</PERSONA>
+<PERSONA>POLONIUS, lord chamberlain. </PERSONA>
+<PERSONA>HORATIO, friend to Hamlet.</PERSONA>
+<PERSONA>LAERTES, son to Polonius.</PERSONA>
+<PERSONA>LUCIANUS, nephew to the king.</PERSONA>
+
+<PGROUP>
+<PERSONA>VOLTIMAND</PERSONA>
+<PERSONA>CORNELIUS</PERSONA>
+<PERSONA>ROSENCRANTZ</PERSONA>
+<PERSONA>GUILDENSTERN</PERSONA>
+<PERSONA>OSRIC</PERSONA>
+<GRPDESCR>courtiers.</GRPDESCR>
+</PGROUP>
+
+<PERSONA>A Gentleman</PERSONA>
+<PERSONA>A Priest. </PERSONA>
+
+<PGROUP>
+<PERSONA>MARCELLUS</PERSONA>
+<PERSONA>BERNARDO</PERSONA>
+<GRPDESCR>officers.</GRPDESCR>
+</PGROUP>
+
+<PERSONA>FRANCISCO, a soldier.</PERSONA>
+<PERSONA>REYNALDO, servant to Polonius.</PERSONA>
+<PERSONA>Players.</PERSONA>
+<PERSONA>Two Clowns, grave-diggers.</PERSONA>
+<PERSONA>FORTINBRAS, prince of Norway. </PERSONA>
+<PERSONA>A Captain.</PERSONA>
+<PERSONA>English Ambassadors. </PERSONA>
+<PERSONA>GERTRUDE, queen of Denmark, and mother to Hamlet. </PERSONA>
+<PERSONA>OPHELIA, daughter to Polonius.</PERSONA>
+<PERSONA>Lords, Ladies, Officers, Soldiers, Sailors, Messengers, and other Attendants.</PERSONA>
+<PERSONA>Ghost of Hamlet's Father. </PERSONA>
+</PERSONAE>
+
+<SCNDESCR>SCENE  Denmark.</SCNDESCR>
+
+<PLAYSUBT>HAMLET</PLAYSUBT>
+
+<ACT><TITLE>ACT I</TITLE>
+
+<SCENE><TITLE>SCENE I.  Elsinore. A platform before the castle.</TITLE>
+<STAGEDIR>FRANCISCO at his post. Enter to him BERNARDO</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Who's there?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>Nay, answer me: stand, and unfold yourself.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Long live the king!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>Bernardo?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>He.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>You come most carefully upon your hour.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>'Tis now struck twelve; get thee to bed, Francisco.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>For this relief much thanks: 'tis bitter cold,</LINE>
+<LINE>And I am sick at heart.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Have you had quiet guard?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>Not a mouse stirring.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Well, good night.</LINE>
+<LINE>If you do meet Horatio and Marcellus,</LINE>
+<LINE>The rivals of my watch, bid them make haste.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>I think I hear them. Stand, ho! Who's there?</LINE>
+</SPEECH>
+
+<STAGEDIR>Enter HORATIO and MARCELLUS</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Friends to this ground.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>And liegemen to the Dane.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>Give you good night.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>O, farewell, honest soldier:</LINE>
+<LINE>Who hath relieved you?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FRANCISCO</SPEAKER>
+<LINE>Bernardo has my place.</LINE>
+<LINE>Give you good night.</LINE>
+</SPEECH>
+
+<STAGEDIR>Exit</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Holla! Bernardo!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Say,</LINE>
+<LINE>What, is Horatio there?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>A piece of him.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Welcome, Horatio: welcome, good Marcellus.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>What, has this thing appear'd again to-night?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>I have seen nothing.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Horatio says 'tis but our fantasy,</LINE>
+<LINE>And will not let belief take hold of him</LINE>
+<LINE>Touching this dreaded sight, twice seen of us:</LINE>
+<LINE>Therefore I have entreated him along</LINE>
+<LINE>With us to watch the minutes of this night;</LINE>
+<LINE>That if again this apparition come,</LINE>
+<LINE>He may approve our eyes and speak to it.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Tush, tush, 'twill not appear.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Sit down awhile;</LINE>
+<LINE>And let us once again assail your ears,</LINE>
+<LINE>That are so fortified against our story</LINE>
+<LINE>What we have two nights seen.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Well, sit we down,</LINE>
+<LINE>And let us hear Bernardo speak of this.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Last night of all,</LINE>
+<LINE>When yond same star that's westward from the pole</LINE>
+<LINE>Had made his course to illume that part of heaven</LINE>
+<LINE>Where now it burns, Marcellus and myself,</LINE>
+<LINE>The bell then beating one,--</LINE>
+</SPEECH>
+
+<STAGEDIR>Enter Ghost</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Peace, break thee off; look, where it comes again!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>In the same figure, like the king that's dead.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Thou art a scholar; speak to it, Horatio.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>Looks it not like the king?  mark it, Horatio.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Most like: it harrows me with fear and wonder.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>It would be spoke to.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Question it, Horatio.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>What art thou that usurp'st this time of night,</LINE>
+<LINE>Together with that fair and warlike form</LINE>
+<LINE>In which the majesty of buried Denmark</LINE>
+<LINE>Did sometimes march? by heaven I charge thee, speak!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>It is offended.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>See, it stalks away!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Stay! speak, speak! I charge thee, speak!</LINE>
+</SPEECH>
+
+<STAGEDIR>Exit Ghost</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>'Tis gone, and will not answer.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>How now, Horatio! you tremble and look pale:</LINE>
+<LINE>Is not this something more than fantasy?</LINE>
+<LINE>What think you on't?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Before my God, I might not this believe</LINE>
+<LINE>Without the sensible and true avouch</LINE>
+<LINE>Of mine own eyes.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Is it not like the king?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>As thou art to thyself:</LINE>
+<LINE>Such was the very armour he had on</LINE>
+<LINE>When he the ambitious Norway combated;</LINE>
+<LINE>So frown'd he once, when, in an angry parle,</LINE>
+<LINE>He smote the sledded Polacks on the ice.</LINE>
+<LINE>'Tis strange.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Thus twice before, and jump at this dead hour,</LINE>
+<LINE>With martial stalk hath he gone by our watch.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>In what particular thought to work I know not;</LINE>
+<LINE>But in the gross and scope of my opinion,</LINE>
+<LINE>This bodes some strange eruption to our state.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Good now, sit down, and tell me, he that knows,</LINE>
+<LINE>Why this same strict and most observant watch</LINE>
+<LINE>So nightly toils the subject of the land,</LINE>
+<LINE>And why such daily cast of brazen cannon,</LINE>
+<LINE>And foreign mart for implements of war;</LINE>
+<LINE>Why such impress of shipwrights, whose sore task</LINE>
+<LINE>Does not divide the Sunday from the week;</LINE>
+<LINE>What might be toward, that this sweaty haste</LINE>
+<LINE>Doth make the night joint-labourer with the day:</LINE>
+<LINE>Who is't that can inform me?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>That can I;</LINE>
+<LINE>At least, the whisper goes so. Our last king,</LINE>
+<LINE>Whose image even but now appear'd to us,</LINE>
+<LINE>Was, as you know, by Fortinbras of Norway,</LINE>
+<LINE>Thereto prick'd on by a most emulate pride,</LINE>
+<LINE>Dared to the combat; in which our valiant Hamlet--</LINE>
+<LINE>For so this side of our known world esteem'd him--</LINE>
+<LINE>Did slay this Fortinbras; who by a seal'd compact,</LINE>
+<LINE>Well ratified by law and heraldry,</LINE>
+<LINE>Did forfeit, with his life, all those his lands</LINE>
+<LINE>Which he stood seized of, to the conqueror:</LINE>
+<LINE>Against the which, a moiety competent</LINE>
+<LINE>Was gaged by our king; which had return'd</LINE>
+<LINE>To the inheritance of Fortinbras,</LINE>
+<LINE>Had he been vanquisher; as, by the same covenant,</LINE>
+<LINE>And carriage of the article design'd,</LINE>
+<LINE>His fell to Hamlet. Now, sir, young Fortinbras,</LINE>
+<LINE>Of unimproved mettle hot and full,</LINE>
+<LINE>Hath in the skirts of Norway here and there</LINE>
+<LINE>Shark'd up a list of lawless resolutes,</LINE>
+<LINE>For food and diet, to some enterprise</LINE>
+<LINE>That hath a stomach in't; which is no other--</LINE>
+<LINE>As it doth well appear unto our state--</LINE>
+<LINE>But to recover of us, by strong hand</LINE>
+<LINE>And terms compulsatory, those foresaid lands</LINE>
+<LINE>So by his father lost: and this, I take it,</LINE>
+<LINE>Is the main motive of our preparations,</LINE>
+<LINE>The source of this our watch and the chief head</LINE>
+<LINE>Of this post-haste and romage in the land.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>I think it be no other but e'en so:</LINE>
+<LINE>Well may it sort that this portentous figure</LINE>
+<LINE>Comes armed through our watch; so like the king</LINE>
+<LINE>That was and is the question of these wars.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>A mote it is to trouble the mind's eye.</LINE>
+<LINE>In the most high and palmy state of Rome,</LINE>
+<LINE>A little ere the mightiest Julius fell,</LINE>
+<LINE>The graves stood tenantless and the sheeted dead</LINE>
+<LINE>Did squeak and gibber in the Roman streets:</LINE>
+<LINE>As stars with trains of fire and dews of blood,</LINE>
+<LINE>Disasters in the sun; and the moist star</LINE>
+<LINE>Upon whose influence Neptune's empire stands</LINE>
+<LINE>Was sick almost to doomsday with eclipse:</LINE>
+<LINE>And even the like precurse of fierce events,</LINE>
+<LINE>As harbingers preceding still the fates</LINE>
+<LINE>And prologue to the omen coming on,</LINE>
+<LINE>Have heaven and earth together demonstrated</LINE>
+<LINE>Unto our climatures and countrymen.--</LINE>
+<LINE>But soft, behold! lo, where it comes again!</LINE>
+<STAGEDIR>Re-enter Ghost</STAGEDIR>
+<LINE>I'll cross it, though it blast me. Stay, illusion!</LINE>
+<LINE>If thou hast any sound, or use of voice,</LINE>
+<LINE>Speak to me:</LINE>
+<LINE>If there be any good thing to be done,</LINE>
+<LINE>That may to thee do ease and grace to me,</LINE>
+<LINE>Speak to me:</LINE>
+<STAGEDIR>Cock crows</STAGEDIR>
+<LINE>If thou art privy to thy country's fate,</LINE>
+<LINE>Which, happily, foreknowing may avoid, O, speak!</LINE>
+<LINE>Or if thou hast uphoarded in thy life</LINE>
+<LINE>Extorted treasure in the womb of earth,</LINE>
+<LINE>For which, they say, you spirits oft walk in death,</LINE>
+<LINE>Speak of it: stay, and speak! Stop it, Marcellus.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Shall I strike at it with my partisan?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>Do, if it will not stand.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>'Tis here!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>'Tis here!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>'Tis gone!</LINE>
+<STAGEDIR>Exit Ghost</STAGEDIR>
+<LINE>We do it wrong, being so majestical,</LINE>
+<LINE>To offer it the show of violence;</LINE>
+<LINE>For it is, as the air, invulnerable,</LINE>
+<LINE>And our vain blows malicious mockery.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>BERNARDO</SPEAKER>
+<LINE>It was about to speak, when the cock crew.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>And then it started like a guilty thing</LINE>
+<LINE>Upon a fearful summons. I have heard,</LINE>
+<LINE>The cock, that is the trumpet to the morn,</LINE>
+<LINE>Doth with his lofty and shrill-sounding throat</LINE>
+<LINE>Awake the god of day; and, at his warning,</LINE>
+<LINE>Whether in sea or fire, in earth or air,</LINE>
+<LINE>The extravagant and erring spirit hies</LINE>
+<LINE>To his confine: and of the truth herein</LINE>
+<LINE>This present object made probation.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>It faded on the crowing of the cock.</LINE>
+<LINE>Some say that ever 'gainst that season comes</LINE>
+<LINE>Wherein our Saviour's birth is celebrated,</LINE>
+<LINE>The bird of dawning singeth all night long:</LINE>
+<LINE>And then, they say, no spirit dares stir abroad;</LINE>
+<LINE>The nights are wholesome; then no planets strike,</LINE>
+<LINE>No fairy takes, nor witch hath power to charm,</LINE>
+<LINE>So hallow'd and so gracious is the time.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>HORATIO</SPEAKER>
+<LINE>So have I heard and do in part believe it.</LINE>
+<LINE>But, look, the morn, in russet mantle clad,</LINE>
+<LINE>Walks o'er the dew of yon high eastward hill:</LINE>
+<LINE>Break we our watch up; and by my advice,</LINE>
+<LINE>Let us impart what we have seen to-night</LINE>
+<LINE>Unto young Hamlet; for, upon my life,</LINE>
+<LINE>This spirit, dumb to us, will speak to him.</LINE>
+<LINE>Do you consent we shall acquaint him with it,</LINE>
+<LINE>As needful in our loves, fitting our duty?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARCELLUS</SPEAKER>
+<LINE>Let's do't, I pray; and I this morning know</LINE>
+<LINE>Where we shall find him most conveniently.</LINE>
+</SPEECH>
+
+<STAGEDIR>Exeunt</STAGEDIR>
+</SCENE>
+
+</ACT>
+</PLAY>
